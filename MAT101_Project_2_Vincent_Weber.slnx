@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MAT101_Project_2_Vincent_Weber/MAT101_Project_2_Vincent_Weber.vcxproj" />
+</Solution>
