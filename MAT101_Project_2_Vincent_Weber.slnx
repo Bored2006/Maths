@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="MAT101_Project_2_Vincent_Weber/MAT101_Project_2_Vincent_Weber.vcxproj" />
+  <Project Path="MAT101_Project_2_Vincent_Weber/MAT101_Project_2_Vincent_Weber.vcxproj" Id="dee39126-c56f-4029-9c7f-93026e625ce0" />
 </Solution>
